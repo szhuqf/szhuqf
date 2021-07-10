@@ -1,7 +1,7 @@
 ### Hi there, I am Stephen Zhu 👋
 
 
-##📘 About Me
+📘 About Me
 - 💻 I’m currently working as a Software Engineer
 - 🔭 I’m currently attending the Creative Destruction Lab Quantum Bootcamp
 - 🌱 I’m pursuing a Master of Analytics Degree at Georgia Tech
