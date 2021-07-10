@@ -1,6 +1,6 @@
 ### Ni Hao! I am Stephen Zhu 👋
 
-I am a Data Scientist looking to change the world with data driven insights. I am currently enrolled as a participant at the Creative Destruction Lab 
+I am a Data Scientist looking to change the world with data driven insights. I am currently enrolled as a participant at the Creative Destruction Lab Quantum Bootcamp, and looking to contribute to mental health awareness using Quantum!
 
 ## 📘 About Me
 - 💻 I’m currently working as a Data Scientist
