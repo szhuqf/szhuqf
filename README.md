@@ -1,7 +1,5 @@
 ### Hi there, I am Stephen Zhu 👋
 
-<!--
-**szhuqf/szhuqf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ##📘 About Me
 - 💻 I’m currently working as a Software Engineer
@@ -10,7 +8,9 @@
 - 🤔 I’m looking to help with deploying ML solutions 
 - ☕ Lets chat about coffee, hiking, and video games
 
--->
 
-
+<br>
+<a target="_blank" href="https://www.linkedin.com/in/steph-zhu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:stezhu@gatech.edu"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
   
