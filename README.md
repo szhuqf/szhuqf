@@ -6,9 +6,10 @@ I am a Data Scientist looking to change the world with data driven insights. I a
 
 ## 📘 About Me
 - 💻 I’m currently working as a Data Scientist
-- 🔭 I’m currently attending the Creative Destruction Lab Quantum Bootcamp
+- 🔭 I’m attending the Creative Destruction Lab Quantum Bootcamp
 - 🌱 I’m pursuing a Master of Analytics degree at Georgia Tech
 - 🥰 I’m looking to help with deploying ML solutions 
+- 🤠 I’m happy to provide data consulting for startups 
 - ☕ Lets chat about coffee, hiking, and video games
 
 
