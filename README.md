@@ -2,7 +2,7 @@
 
 I am a Data Scientist looking to change the world with data driven insights. I am currently enrolled as a participant at the Creative Destruction Lab Quantum Bootcamp, and looking to contribute to mental health awareness using Quantum!
 
-<img src="valorant-spray-the-seeker.png" height="200" align="right">
+<img src="valorant-spray-the-seeker.png" height="300" align="right">
 
 ## 📘 About Me
 - 💻 I’m currently working as a Data Scientist
