@@ -2,7 +2,7 @@
 
 I am a Data Scientist looking to change the world with data driven insights. I am currently enrolled as a participant at the Creative Destruction Lab 
 
-##📘 About Me
+## 📘 About Me
 - 💻 I’m currently working as a Data Scientist
 - 🔭 I’m currently attending the Creative Destruction Lab Quantum Bootcamp
 - 🌱 I’m pursuing a Master of Analytics degree at Georgia Tech
