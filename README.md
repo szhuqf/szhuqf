@@ -5,7 +5,7 @@
 - 💻 I’m currently working as a Data Scientist
 - 🔭 I’m currently attending the Creative Destruction Lab Quantum Bootcamp
 - 🌱 I’m pursuing a Master of Analytics degree at Georgia Tech
-- 🤔 I’m looking to help with deploying ML solutions 
+- 🥰 I’m looking to help with deploying ML solutions 
 - ☕ Lets chat about coffee, hiking, and video games
 
 
