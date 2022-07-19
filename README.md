@@ -1,16 +1,15 @@
 ### Ni Hao! I am Stephen Zhu 👋
 
-I am a Data Scientist looking to change the world with data driven insights. I am currently enrolled as a participant at the Creative Destruction Lab Quantum Bootcamp, and looking to contribute to mental health awareness using Quantum!
+I am a Data Scientist looking to change the world with data driven insights!
 
 <img src="valorant-spray-the-seeker.png" height="300" align="right">
 
 ## 📘 About Me
 - 💻 I’m currently working as a Data Scientist
-- 🔭 I’m attending the Creative Destruction Lab Quantum Bootcamp
 - 🌱 I’m pursuing a Master of Analytics degree at Georgia Tech
 - 🥰 I’m looking to help with deploying ML solutions 
 - 🤠 I’m happy to provide data consulting for startups 
-- ☕ Lets chat about coffee, hiking, and video games
+- ☕ Lets chat about coffee, bouldering, hiking, and video games
 
 
 <br>
