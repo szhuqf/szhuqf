@@ -6,7 +6,7 @@ I am a Data Scientist looking to change the world with data driven insights!
 
 ## 📘 About Me
 - 💻 I’m currently working as a Data Scientist
-- 🌱 I’m pursuing a Master of Analytics degree at Georgia Tech
+- 🌱 I hold a Master of Analytics degree from Georgia Tech
 - 🥰 I’m looking to help with deploying ML solutions 
 - 🤠 I’m happy to provide data consulting for startups 
 - ☕ Lets chat about coffee, bouldering, hiking, and video games
